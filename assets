@@ -1,0 +1,11 @@
+reservasi-meja/
+│
+├── index.html
+├── style.css
+├── script.js
+├── manifest.json
+├── service-worker.js
+│
+└── assets/
+    ├── icon-192.png
+    └── icon-512.png
